@@ -6,6 +6,10 @@
 ## How to run the code:
 >We use java SDK 13
 >
+>The project must be downloaded and unzipped to be executed, as it is too large to be directly uploaded to github.
+>
+>It is primarily coded in Java
+>
 >In order to excute the code you need to run the server first, as the client needs to connect to it.  
  
 
